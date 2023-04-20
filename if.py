@@ -7,3 +7,5 @@ print('Este comit lo hizo Uriel')
 print('Hola Daniela')
 
 print('Vamos por otra prueba')
+print('La prueba 14:6')
+print('La prueba 14:7')
